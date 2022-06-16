@@ -31,3 +31,8 @@ The recommendation service manages product recommendations and stores the follow
 • Author
 • Rate
 • Content
+
+
+```sh
+find product-service -type f
+```
